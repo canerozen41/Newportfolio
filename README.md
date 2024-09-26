@@ -1,4 +1,3 @@
 ﻿# Newportfolio
 # Newportfolio
 
-deneme
